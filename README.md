@@ -7,7 +7,7 @@ Sou **Vinícius Feitosa**, um **Desenvolvedor de Software**.
 # 💼 Experiência Profissional
 
 **Atualmente Estagiário em Desenvolvimento de Software — Mbae Tech**  
-🛠️ Tecnologias: **Delphi / Pascal · MariaDB**  
+🛠️ Tecnologias: **Delphi / Pascal · SQL**  
 📞 Suporte técnico a usuários e clientes  
 🧩 Manutenção e correção de bugs em sistemas existentes  
 🗄️ Integração e manipulação de dados em banco relacional  
