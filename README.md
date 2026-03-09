@@ -9,17 +9,6 @@ Sou **Vinícius Feitosa**, um **Desenvolvedor de Software**.
 **Atualmente Estagiário em Desenvolvimento de Software — Mbae Tech**  
 🛠️ Tecnologias: **Delphi / Pascal · SQL**  
 📞 Suporte técnico a usuários e clientes  
-🧩 Manutenção e correção de bugs em sistemas existentes  
-🗄️ Integração e manipulação de dados em banco relacional  
-📋 Apoio a rotinas administrativas e regras de negócio
-
-# 🚀 Especialização:
-
-Desenvolvedor Back-End com foco em sistemas robustos e soluções escaláveis.  
-
-🔹 Tecnologias: `Pascal / Delphi` · `AWS` · `SQL` .
-
-Além disso, possuo conhecimento em **Testes de Software**, buscando garantir a qualidade e a robustez dos produtos.
 
 # 💻 Tecnologias que domino:
 
