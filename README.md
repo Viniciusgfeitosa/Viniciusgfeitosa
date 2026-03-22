@@ -1,4 +1,4 @@
-# Olá, sou Vinícius Feitosa 👋👋
+# Olá, sou Vinícius Feitosa👋
 
 Desenvolvedor backend com foco em **Java + Spring Boot**.
 
