@@ -33,7 +33,7 @@ Trilha focada em backend Java:
 - AWS — deploy com EC2 e RDS
 - Testes unitários com JUnit
 
-Acompanhe meu progresso no repositório [estudos-java](https://github.com/viniciusfeitosa/estudos-java).
+Acompanhe meu progresso no repositório [estudos-java](https://github.com/viniciusgfeitosa/estudos-java).
 
 ---
 
