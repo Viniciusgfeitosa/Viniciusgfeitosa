@@ -19,7 +19,6 @@ Tenho experiência prática com SQL no dia a dia e estou construindo uma trilha 
 - Suporte técnico e atendimento a clientes via WhatsApp
 - Consultas e manutenção de banco de dados com SQL
 - QA e reporte de bugs no sistema Guaiamum
-- Stack: Pascal · SQL
 
 ---
 
