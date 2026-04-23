@@ -30,7 +30,6 @@ Trilha focada em backend:
 - Spring Boot — API REST com banco de dados real
 - SQL avançado — JOINs, subqueries, procedures
 - AWS — deploy com EC2 e RDS
-- Testes unitários com JUnit
 - Python — automação, scripts e integração com APIs
 
 ---
