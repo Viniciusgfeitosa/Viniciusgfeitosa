@@ -24,15 +24,17 @@ Tenho experiência prática com SQL no dia a dia e estou construindo uma trilha 
 
 ## 🚀 Atualmente estudando
 
-Trilha focada em backend Java:
+Trilha focada em backend:
 
 - Java puro — lógica, POO, Collections
 - Spring Boot — API REST com banco de dados real
 - SQL avançado — JOINs, subqueries, procedures
 - AWS — deploy com EC2 e RDS
 - Testes unitários com JUnit
+- Python — automação, scripts e integração com APIs
 
 Acompanhe meu progresso no repositório [estudos-java](https://github.com/viniciusgfeitosa/estudos-java).
+Acompanhe meu progresso no repositório [estudos-sql](https://github.com/viniciusgfeitosa/estudos-sql).
 
 ---
 
