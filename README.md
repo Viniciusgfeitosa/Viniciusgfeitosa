@@ -33,9 +33,6 @@ Trilha focada em backend:
 - Testes unitários com JUnit
 - Python — automação, scripts e integração com APIs
 
-Acompanhe meu progresso no repositório [estudos-java](https://github.com/viniciusgfeitosa/estudos-java).
-Acompanhe meu progresso no repositório [estudos-sql](https://github.com/viniciusgfeitosa/estudos-sql).
-
 ---
 
 ## 🛠️ Tecnologias
